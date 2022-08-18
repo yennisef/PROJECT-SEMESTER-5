@@ -1,0 +1,2 @@
+Nama_depan : nama_belakang : kota : propinsi
+yenni : seftiardiyah : krian : propinsi
